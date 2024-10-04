@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='csbprivatetest',  # Your package name
-    version='0.1.1',    # Version of the package
+    version='0.1.2',    # Version of the package
     description='CSB Toolkit for Georeferencing and Uncertainty Calculations',
     author='Vishwa Barathy',
     author_email='vishwa.barathy@cidco.ca',
